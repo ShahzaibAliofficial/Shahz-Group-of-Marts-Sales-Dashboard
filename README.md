@@ -1,5 +1,4 @@
 **Shahz Group of Marts - Sales & Inventory Dashboard**
-![Uploading do power bi dashboard automation and data modelling.PNG…]()
 
 **Overview:**
 This project highlights my expertise in building dynamic dashboards that provide actionable insights into sales performance and inventory management. The "Shahz Group of Marts - Sales & Inventory Dashboard" offers a clear and concise representation of key metrics vital for effective decision-making in a retail environment.
